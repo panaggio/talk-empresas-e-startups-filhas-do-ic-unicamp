@@ -1,0 +1,17 @@
+{
+  "name": "Empresas e startups filhas do IC/Unicamp",
+  "description": "This talk shows some of the companies that were created by students and ex-students of IC/Unicamp, the great entrepreneural ecosystem that has been built in Campinas, and some tips for those that want to come here and be part of it. It was part of the talks for Unicamp de Portas Abertas 2011, that happened on 2011-09-02 at Unicamp, Campinas, São Paulo, Brazil",
+  "sections": [
+    {"section":"title"},
+
+    {"section":"about-me"},
+
+    {"section":"upa-intro"},
+    {"section":"umamao-intro"},
+    {"section":"fonista-intro"},
+
+    {"section":"about-me"},
+    {"section":"end"},
+    {"section":"title"}
+  ]
+}
