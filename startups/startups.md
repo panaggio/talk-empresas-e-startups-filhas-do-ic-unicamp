@@ -56,19 +56,19 @@
 # Umamão/Fonista #jaba #
 
 !SLIDE bullets
-# [Umamão](http://umamao.com) #
+# [![Umamão](umamao-logo.png)](http://umamao.com) #
 > O Umamão é uma **base de perguntas e respostas expandida e melhorada**
 constantemente por **acadêmicos e profissionais**
 
 !SLIDE quotation
-# [Umamão](http://umamao.com) #
+# [![Umamão](umamao-logo.png)](http://umamao.com) #
 
 > O Umamão é uma ótima oportunidade para **tirar suas dúvidas e ajudar seus
 amigos** respondendo às deles.
 - Rodolfo Azevedo, professor do IC/Unicamp e usuário do Umamão
 
 !SLIDE
-# [Fonista](http://fonista.co) #
+# [![Fonista](fonista-logo.png)](http://fonista.co) #
 ## Encontre e recomende telefones de serviços que chegam até você ##
 
 !SLIDE
